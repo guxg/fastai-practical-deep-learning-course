@@ -18,7 +18,7 @@
 
 才过了一周，最受欢迎的帖子已经有了1100个回复，这是一个可怕的数字。你不必阅读所有内容，你应该点击"Summarize This Topic"按钮，只让得到最多赞的回复显示出来。
 
-![](/lesson2/1.png)
+![](../lesson2/1.png)
 
 ####  继续运行 [[3:19]](https://youtu.be/Egp4Zajhzog?t=199)
 
@@ -35,14 +35,14 @@ https://course-v3.fast.ai/ 现在有一个“继续运行”的章节，它会�
 
 [分享你的作品](https://forums.fast.ai/t/share-your-work-here/27676/) 
 
-![](/lesson2/2.png)
+![](../lesson2/2.png)
 
 - [识别谁在说话——Ben Affleck还是Joe Rogan](https://forums.fast.ai/t/share-your-work-here/27676/143) 
 - [清除Whatsapp图片](https://forums.fast.ai/t/share-your-work-here/27676/97)
 
 
 
-![](/lesson2/3.png)
+![](../lesson2/3.png)
 
 [论坛帖子](https://forums.fast.ai/t/share-your-work-here/27676/215)
 
@@ -52,7 +52,7 @@ https://course-v3.fast.ai/ 现在有一个“继续运行”的章节，它会�
 
 [[6:01](https://youtu.be/Egp4Zajhzog?t=361)]
 
-![](/lesson2/4.png)
+![](../lesson2/4.png)
 
 [论坛帖子](https://forums.fast.ai/t/share-your-work-here/27676/38)
 
@@ -62,7 +62,7 @@ Suvash 刷新了伽里字母识别的记录。我觉得他现在可以已经取�
 
 [[6:28](https://youtu.be/Egp4Zajhzog?t=388)]
 
-![](/lesson2/5.png)
+![](../lesson2/5.png)
 
 [起源之谜](https://medium.com/@alenaharley/the-mystery-of-the-origin-cancer-type-classification-using-fast-ai-libray-212eaf8d3f4e)
 
@@ -74,7 +74,7 @@ Suvash 刷新了伽里字母识别的记录。我觉得他现在可以已经取�
 
 [[8:07](https://youtu.be/Egp4Zajhzog?t=487)]
 
-![](/lesson2/6.png)
+![](../lesson2/6.png)
 
 另外一个很酷的作品来自Simon Willison和Natalie Downe，他们在这个周末创建了一个识别美洲豹的web应用程序，赢得了旧金山Science Hack Day。这很了不起。有很多人做了有趣的作品。这会激励大家创新思考。使用学过的知识来处理问题很酷。他们做的事情令人惊奇。需要说明的是，有成千上万的人在参加这个课程，我只挑选了一些比较令人惊奇的例子。事实上，Simon也是一个和我们上节课讲到的Christine Payne一样的令人妒忌的人，他们能把所有事都做的很出色，现在他在深度学习上做得也很出色。好吧，Simon可以在他学习深度学习的第一周赢得一个黑客马拉松，或许你们需要学习两周来赢得第一个黑客马拉松。
 
@@ -82,7 +82,7 @@ Suvash 刷新了伽里字母识别的记录。我觉得他现在可以已经取�
 
 [[9:22](https://youtu.be/Egp4Zajhzog?t=562)]
 
-![](/lesson2/7.png)
+![](../lesson2/7.png)
 
 我觉得这件事也很值得讲，这周James Dellinger发了一篇讲他如何用第一课里的方法做鸟类分类的博文。引起我注意的是末尾内容，他说之前他觉得他没法做深度学习，因为他浏览了scikit-learn网站，这是一个最重要的python机器学习库，觉得深度学习不是他能做得到的，这些公式他理解不了。后来他意识到，不学习公式也能做出一些有用的东西。我认为这是一个很酷的信息。
 
@@ -90,7 +90,7 @@ Suvash 刷新了伽里字母识别的记录。我觉得他现在可以已经取�
 
 [[10:01](https://youtu.be/Egp4Zajhzog?t=601)]
 
-![](/lesson2/8.png)
+![](../lesson2/8.png)
 
 我想在论坛上高亮Daniel Armstrong。我觉得他是一个榜样。他说，我想向库提交贡献，我看了文档，它很大。第二天的第二条消息里，他说，所有东西我都不懂，我不知道这要花多久，我应付不了，我的大脑要停机了，但我喜欢这驱使我学习这么多东西。第三天，他说，我刚刚提交了我的第一个pull request。我觉得这很棒，感觉到害怕并没有关系，确实有很多东西要学。你只要选择其中一部分，慢慢深入进去就好。尝试提交对一段代码或者一段文档的更新，或者创建一个分类器或者其他的什么东西。
 
@@ -115,13 +115,13 @@ Suvash 刷新了伽里字母识别的记录。我觉得他现在可以已经取�
 
 [[12:56]](https://youtu.be/Egp4Zajhzog?t=776)
 
-![](/lesson2/9.png)
+![](../lesson2/9.png)
 
 今天开始，在我们深入学习怎样让这些计算机视觉分类器有效运行后，我们会学习用这些处理文本，然后处理表格数据，比如说excel电子表格和数据库。然后我们会学习协同过滤(比如推荐系统)。这会让我们学习到“embeddings（嵌入）”，这是这些应用下层的重要基础。然后我们回到计算机视觉，更深入地学习计算机视觉，然后更深入地学习自然语言处理。这样做，更有利于掌握这些内容。你会多次看到一个主题，而不是只学一次，就不会再在剩下的课程里看到它，几周后我们会回过头来再学习自然语言处理和计算机视觉这两个重要的应用。这会促使你记住这些知识，不会忘记它们。
 
 [[14:06]](https://youtu.be/Egp4Zajhzog?t=846)
 
-![](/lesson2/10.png)
+![](../lesson2/10.png)
 
 最开始很多人，尤其是有更多坚实科学背景的人，觉得这种“嘿，这是代码，输入它，运行它”的教学方式比讲很多理论的教学方式令人困惑，让人觉得惊奇、怪异。对有这种想法的人，我想建议你们进行下去。你不必记住所有内容，不必理解所有内容，不必理解这些是怎样运行的。希望你能输入代码，运行它，产生结果，然后你可以做些实验，这样你可以了解到它是怎样运行的。然后继续向前。很多完成了这个课程并取得了成功的人都看了这个视频至少3遍。基本上先快速过一遍，然后慢慢过一遍，然后再更慢地过一遍。我总会听到他们说“每次我看完一遍，我都很学到很多新内容”。所以就算没有明白里面的内容，也不要在第一课停下来。
 
@@ -146,7 +146,7 @@ urls = Array.from(document.querySelectorAll('.rg_di .rg_meta')).map(el=>JSON.par
 window.open('data:text/csv;charset=utf-8,' + escape(urls.join('\n')));
 ```
 
-![](/lesson2/11.png)
+![](../lesson2/11.png)
 
 有些人可能没有用过Javascript，这是一个Javascript控制台。我点击回车，它下载了一个文件。我把它命名成teddies.txt ，点击“保存”。好了，现在我有一个包含泰迪熊图片url的文件。然后对黑熊和灰熊做同样的操作，把它们放入对应名字的文件里。
 
@@ -229,7 +229,7 @@ for c in classes:
     verify_images(path/c, delete=True, max_workers=8)
 ```
 
-![](/lesson2/12.png)
+![](../lesson2/12.png)
 
 现在我有了一个熊的文件夹，里面包含了灰熊文件夹、泰迪文件夹、黑熊文件夹。我们有了创建ImageDataBunch的基本内容。让我们创建它来做深度学习吧。
 
@@ -267,7 +267,7 @@ data.classes
 data.show_batch(rows=3, figsize=(7,8))
 ```
 
-![](/lesson2/bears.png)
+![](../lesson2/bears.png)
 
 你可以在这里再检查一遍。`data.c`属性表示数据集里有多少种可能的标签。晚些时候我们会学到`c`的其他含义。我们可以看到在训练集里有多少图片，验证集里有多少图片。现在训练集里有473张，验证集里有140张。
 
@@ -334,7 +334,7 @@ LR Finder complete, type {learner_name}.recorder.plot() to see the graph.
 learn.recorder.plot()
 ```
 
-![](/lesson2/13.png)
+![](../lesson2/13.png)
 
 这里能看到，我选择`3e-5`作为最小的学习率。我会选择 1e-4 或者 3e-4作为最大学习率。一般情况下，这会运行的很好。你需要知道,大部分参数的影响没有那么大。如果你只是照抄我每次使用的数值，它也会很有效。我们今天也会讲到在什么情况下它会不起作用。
 
@@ -373,7 +373,7 @@ interp = ClassificationInterpretation.from_learner(learn)
 interp.plot_confusion_matrix()
 ```
 
-![](/lesson2/14.png)
+![](../lesson2/14.png)
 
 这里有一个错误。有一个黑熊被当成了灰熊。这是一个有用的步骤。我们取得了很大进步。如果我们的数据集更准确的话，我们可能能做得更好。谷歌图片搜索可能不能每次都给出正确的图片。我们怎样解决它呢。我们把它清除掉。用深度学习程序帮助人类专家是一个好主意。非常少的人讲这个，但是对我来说，这是最有用的技巧，尤其是对你们来说。大部分学习这个课程的人是领域专家，不是计算机科学专家。这里你可以使用你关于生物学里点变异或者巴拿马大巴或者其他方面的知识。来看下怎样做。记得上节课哪个画出最大损失的图吗，我们可以看到错得最多的，最不确定的数据。如果数据被标错了，不太可能会被识别正确。这不太可能发生。所以我们要关注那些模型不确定的或者确定但搞错的数据，这些数据可能是被标错了。
 
@@ -392,7 +392,7 @@ top_loss_paths = data.valid_ds.x[idxs]
 fd = FileDeleter(file_paths=top_loss_paths)
 ```
 
-![](/lesson2/16.png)
+![](../lesson2/16.png)
 
 我们运行FileDeleter，传入排序过的路径，出现的内容是和 `plot_top_losses` 一样的。也是那些错的或者不确定的数据。没什么疑问，这个图片（左数第二张）不是泰迪熊或者黑熊灰熊。它不应该出现在数据集里。我点击删除按钮。剩下的看起来都是熊，我点击确认按钮，程序会显示出另外5张图片。
 
@@ -400,7 +400,7 @@ fd = FileDeleter(file_paths=top_loss_paths)
 
 我们的旧金山学习小组做的是一个运行在Jupyter notebook里的小程序，可能你们没有注意到这点。这不仅是可以实现的，也超乎意料得简单。你可以输入两个问号来查看详情。这是它的代码。
 
-![](/lesson2/17.png)
+![](../lesson2/17.png)
 
 如果你之前做过GUI编程，这看起来很普通。里面有几个你点击按钮时会触发的回调，里面执行了一些标准的python代码，为了渲染它你需要使用widget，使用标准的box来放置它。这个在notebook里创建应用的主意可能大才小用了，但它非常不错，它能让你为你的同伴创建工具。事实上，当你在看这个视频时，你可能会发现notebook里有很多个按钮，因为我们现在已经整理了很长的一份待办任务清单来添加这些。
 
@@ -445,7 +445,7 @@ img = open_image(path/'black'/'00000021.jpg')
 img
 ```
 
-![](/lesson2/bear.png)
+![](../lesson2/bear.png)
 
 这是我们之前保存的类别的列表。通常我们创建一个data bunch，这次我们不会再从放了很多图片的文件夹创建data bunch，我们要创建一种特殊的data bunch，它一次只接收一张图片。所以现在我们不传入任何数据。我们传入路径的唯一原因是让它知道在哪里加载模型。这是存放模型的路径。 
 
@@ -576,7 +576,7 @@ epoch  train_loss  valid_loss  error_rate
 learn.recorder.plot_losses()
 ```
 
-![](/lesson2/15.png)
+![](../lesson2/15.png)
 
 
 
@@ -687,13 +687,13 @@ epoch  train_loss  valid_loss  error_rate
 
 现在让我们理解下究竟发生了什么。“损失度”是什么意思？“迭代”是什么意思？“学习率”是什么意思？要想理解这些概念，需要知道程序是怎样运行的。我们要学习深度学习的另外一面（理论部分），不再创建一个顶尖水平的美洲豹识别器，我们要回过头来创建一个最简单的线性模型。我们会用到一些数学。不要急着关掉。这没关系。我们会用到一些数学，但是并不难。即使你不喜欢、不擅长数学。因为我们首先要学习的是看像数字8这样的图片。
 
-![](/lesson2/18.png)
+![](../lesson2/18.png)
 
 它事实上是一组数字。对于黑白图片来说，它是一个数字矩阵。对于彩色图片来说，它会有三个维度。当你添加一个维度后，我们叫它张量，不再叫它矩阵。它是一个三维数字张量——代表红，绿，蓝。
 
 
 
-![](/lesson2/19.png)
+![](../lesson2/19.png)
 
 我们创建的泰迪熊识别程序实际上可以看成是一个数学函数，它接受泰迪熊图片的数字，把这些数字转换成三个数字：它是泰迪的概率、是灰熊的概率、是黑熊的概率。在这个例子里，有个假想的函数，接收代表手写数字的像素值，返回十个数字：每一个可能结果（0到9这10个数字）的概率。
 
@@ -703,11 +703,11 @@ epoch  train_loss  valid_loss  error_rate
 
 我们来试一下。我们知道做预测的方法是`learn.predict`。我们可以在它前面或者后面敲两个问号来查看源代码。
 
-![](/lesson2/20.png) 
+![](../lesson2/20.png) 
 
 这就是它的源代码。 pred_max = res.argmax()。它代表什么类别？我们把它传入类别数组（self.data.classes）就好。fastai库里的代码可以增强你对概念的理解，让你知道程序是怎样运行的，这很有用。
 
-![](/lesson2/21.png)
+![](../lesson2/21.png)
 
 
 
@@ -715,15 +715,15 @@ epoch  train_loss  valid_loss  error_rate
 
 当然可以。回答“错误率是怎样算出来的”这个问题的一个方法是，输入error_rate??，来看看源代码，代码里写的是 1 - accuracy（准确率）
 
-![](/lesson2/22.png) 
+![](../lesson2/22.png) 
 
 现在的问题变成了是什么是准确率：
 
-![](/lesson2/23.png)
+![](../lesson2/23.png)
 
 它是argmax。现在我们知道，它是拿预测结果和目标值比较，看有多少次是一致的，取平均值。这就是它的含义。接下来的问题是，在fastai里，它被用在什么地方。这个指标（metrics）经常被用在验证集上。每加入一个指标，它都会被用在验证集上，这是最佳实践。
 
-![](/lesson2/24.png)
+![](../lesson2/24.png)
 
 必须要用模型没有见过的数据来检查它的效果。我们稍后会学习验证集。
 
@@ -755,7 +755,7 @@ learn.fit_one_cycle(4, slice(xxx, 3e-4))
 
 我们来创建这样一个数学函数，输入是表像素的数字，输出是每个可能类别的概率。
 
-![](/lesson2/adam.gif)
+![](../lesson2/adam.gif)
 
 
 
@@ -792,7 +792,7 @@ learn.fit_one_cycle(4, slice(xxx, 3e-4))
 
 目前，这些都是高中里低年级的数学知识。我觉得我们可以理解。这和 <img src="http://latex.codecogs.com/gif.latex?y&space;=&space;ax&space;&plus;&space;b" title="y = ax + b" /> 是一样的，只是换了个名字。在做机器学习时，我们不是只有一个等式，我们会有很多个。如果我们用代表气温的数据和冰淇淋销量的数据，我们会有很多点。
 
-![](/lesson2/25.png)
+![](../lesson2/25.png)
 
 对于每个点，我们假设它遵循这个公式 (<img src="http://latex.codecogs.com/gif.latex?y&space;=&space;a_1x_1&space;&plus;&space;a_2x_2" title="y = a_1x_1 + a_2x_2" />)。这里有很多y和很多x，我们可以加上一个<img src="http://latex.codecogs.com/gif.latex?_i" title="_i" /> ：
 
@@ -810,7 +810,7 @@ learn.fit_one_cycle(4, slice(xxx, 3e-4))
 
 Andre Staltz创建了这个神奇的网站 http://matrixmultiplication.xyz/ ，现在我们有了一个矩阵和一个向量，我们可以得到一个乘积。
 
-![](/lesson2/matrix.gif)
+![](../lesson2/matrix.gif)
 
 这就是矩阵向量乘法。换种说法，它就是<img src="http://latex.codecogs.com/gif.latex?y_i&space;=&space;a_1x_i_,_1&space;&plus;&space;a_2x_i_,_2" title="y_i = a_1x_i_,_1 + a_2x_i_,_2" /> ，不过他的版本更容易理解。 
 
@@ -851,11 +851,11 @@ learn.load('stage-2')
 
 稍后我们会学习这个。没有“ResNet34的副本（a copy of resnet34）”这种东西，ResNet34 是一种架构——是一种函数形式。就像<img src="http://latex.codecogs.com/gif.latex?y&space;=&space;ax&space;&plus;&space;b" title="y = ax + b" /> 是一个线性函数形式。它不占用任何空间，不包含任何东西，它只是一个函数。ResNet34只是一个函数。我想引起混淆是因为我们经常使用从ImageNet学习到的预训练模型。这里我们不需要用预训练模型。事实上，要想不使用它，你可以传入`pretrained=False`：
 
-![](/lesson2/26.png)
+![](../lesson2/26.png)
 
 这会保证不加载预训练模型，我猜这会节省0.2秒。我们会学习很多关于这个的内容。如果还不太清楚的话也不要担心。`models.resnet34`只是说它是一个线性函数还是是一个二次函数，还是一个倒数——它只是一个函数。这是一个ResNet34函数。它是一个数学函数，不占用任何存储空间，不包含数据，不需要被加载，而预训练模型需要被加载。我们做推理时，这个会占用空间：
 
-![](/lesson2/27.png)
+![](../lesson2/27.png)
 
 在这里我们加载参数。这些参数，像之前讲的那样，是 <img src="http://latex.codecogs.com/gif.latex?a" title="a" /> 和 <img src="http://latex.codecogs.com/gif.latex?b" title="b" />的值——我们需要保存这些数字。对于ResNet 34，你不是只保存两个数字，你需要保存几百万或者几千万个数字。 
 
@@ -881,7 +881,7 @@ learn.load('stage-2')
 
 我们打开[lesson2-sgd.ipynb](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson2-sgd.ipynb)。我们现在要从下到上（从细节到整体）地学，不再是从上到下。我们要创建最简单的模型，这是一个线性模型。首先我们需要一些数据。我们要生成一些数据。我们要生成的数据看起来是这样的：
 
- ![](/lesson2/n1.png)
+ ![](../lesson2/n1.png)
 
 x轴大概代表气温，y轴大概代表冰淇淋销量或者类似的东西。我们要创建一些线性的模拟数据。在创建这个时，我们也会学习一些PyTorch的知识。
 
@@ -944,7 +944,7 @@ y = x@a + torch.rand(n)
 
 在PyTorch里，你输入`tensor`，传入一些数字，在这个例子里，得到一个列表，一个向量。这代表我们的系数：直线的斜率和截距。
 
-![](/lesson2/28.png)
+![](../lesson2/28.png)
 
 我们不会用这种特殊的<img src="http://latex.codecogs.com/gif.latex?ax&space;&plus;&space;b" title="ax + b" />，我们第二个 <img src="http://latex.codecogs.com/gif.latex?x" title="x" /> 的值设成1
 
@@ -952,7 +952,7 @@ y = x@a + torch.rand(n)
 
 这里可以看到，把值设成1可以让我们做简单的矩阵向量乘积：
 
-![](/lesson2/29.png)
+![](../lesson2/29.png)
 
 这就是<img src="http://latex.codecogs.com/gif.latex?a" title="a" />。然后我们需要生成这个 <img src="http://latex.codecogs.com/gif.latex?x" title="x" /> 数组。我们要向第一列放入随机数，向第二列放入1。要做到这个，我们用PyTorch创建一个秩是2的张量，格式是`n` x 2。我们传入了两个参数，得到一个的秩是2的张量。行数是`n`，列数是2。在里面，所有的数都是1——这就是`torch.ones`的含义。 
 
@@ -962,7 +962,7 @@ y = x@a + torch.rand(n)
 
 还有一个PyTorch里的重要概念。每次你看到一个以下划线结尾的函数，它代表不要返回随机数，而是把函数的结果赋值给调用这个方法的变量。所以这个`x[:,0].uniform_(-1.,1)`把第0列替换成-1到1之间的服从均匀分布的随机数。这里有很多内容要学。
 
-![](/lesson2/30.png)
+![](../lesson2/30.png)
 
 好消息是这两行代码和我们就要用到的`x@a`覆盖了PyTorch里你需要知道的95%的知识。 
 
@@ -984,7 +984,7 @@ y = x@a + torch.rand(n)
 plt.scatter(x[:,0], y);
 ```
 
- ![](/lesson2/n1.png) 
+ ![](../lesson2/n1.png) 
 
 `plt`一般用来代表画图库matplotlib。大部分人在大多数Python科学计算里使用它来画图。这是你应该掌握的一个库，把数据画出来是相当重要的。还有很多其他的画图库，这些库在某些方面比matplotlib好，但matplotlib在所有方面的表现都比较均衡。有时会有点不太好用，但是我基本都是用matplotlib，因为没有什么功能是它做不到的，尽管有些库在某些方面会稍微好些。它确实很强大，你学会了matplotlib，你就可以做所有事情。这里，我使用matplotlib来画`x`和`y`的散点图。这是我的气温和冰淇淋销量的模拟数据。 
 
@@ -1014,11 +1014,11 @@ Jeremy：是的。但我们没办法打印出5千万个数字，不过它们做�
 
 我们要找出PyTorch里叫**参数（parameters）**的东西（比如<img src="http://latex.codecogs.com/gif.latex?a_1" title="a_1" />和<img src="http://latex.codecogs.com/gif.latex?a_2" title="a_2" />），在统计学里，它们被叫做系数（coefficient）。我要找的系数要能够让它们对应的线到这些点之间的差距最小。换句话说，如果我们找到的<img src="http://latex.codecogs.com/gif.latex?a_1" title="a_1" />和<img src="http://latex.codecogs.com/gif.latex?a_2" title="a_2" />画出来的线是这样： 
 
-![](/lesson2/31.png) 
+![](../lesson2/31.png) 
 
 我们可以看到这条线到每个点之间的距离。这差了很多。应该有其他的<img src="http://latex.codecogs.com/gif.latex?a_1" title="a_1" />和<img src="http://latex.codecogs.com/gif.latex?a_2" title="a_2" /> 能画出这条灰线。看下现在的距离。然后我们看看这条黄线。这回，每个点都很近。
 
-![](/lesson2/32.png)
+![](../lesson2/32.png)
 
 
 我们可以得到在每个点到线的距离，再对这些距离取平均值。这被叫做**损失**。这是我们的损失值。你需要一个数学函数来计算线到这些点的距离。
@@ -1057,11 +1057,11 @@ a = tensor(-1.,1)
 
 `a`是一个张量。你可以看到它是一个浮点。你看，PyTorch也很懒。它只写了一个点，没有写出0。
 
-![](/lesson2/33.png)
+![](../lesson2/33.png)
 
 如果你想看到准确的类型，可以写`.type()`，你可以看到它是一个FloatTensor：
 
-![](/lesson2/34.png)
+![](../lesson2/34.png)
 
 现在我们可以用随机猜的这个数计算预测值，`x@a`是一个`x`和`a`的矩阵积。我们现在可以计算预测值和实际值的均方差，这就是损失度。对应这次回归来讲，损失度是0.9。
 
@@ -1083,7 +1083,7 @@ plt.scatter(x[:,0],y)
 plt.scatter(x[:,0],y_hat);
 ```
 
-![](/lesson2/n2.png)
+![](../lesson2/n2.png)
 
 效果并不好，一点儿也不意外。这只是随便猜的值。下面来看SGD（随机梯度下降）或者更通用的梯度下降（gradient descent），在学校里学工程或者计算机的人可能在学校里用牛顿法（Newton's method）做过很多。如果你没有做过，没有关系，我们现在就来学习。
 
@@ -1093,7 +1093,7 @@ plt.scatter(x[:,0],y_hat);
   - 如果我们把截距变大或变小一点会怎样？
   - 如果我们把斜率变大或变小一点会怎样？
 
-![](/lesson2/35.png)
+![](../lesson2/35.png)
 
 有四种可能的组合，我们可以计算这四种情况的损失，看看哪种更好。把它上移还是下移比较好？让它更倾斜还是更加水平比较好？我们要做的就是，看那种方式能让结果更好，我们就按照哪种方式去做。就是这样。
 
@@ -1144,7 +1144,7 @@ def update():
 #### 为什么要用学习率 [[1:41:31](https://youtu.be/Egp4Zajhzog?t=6091)]
 
 我们看一个简单的例子，一个二次曲线。我们的算法的任务是找到曲线的最低点。怎样做到呢？就像我们在做的那样，随机选择一些x来开始。然后找出y的值。这是起点。然后它可以计算梯度，梯度就是这个斜线，它告诉你哪个方向是向下的。梯度告诉你，你要走这个方向。
-![](/lesson2/lr.gif)
+![](../lesson2/lr.gif)
 
 - 如果梯度非常大，你可能会向左走很多。你可能会越过到这里。如果你越过了，就没有用了，损失度会变差。我们跳了太远，这不是我们想要的。
 
@@ -1154,7 +1154,7 @@ def update():
 
 希望这会让你记起如果学习率太高会发生什么。
 
-![](/lesson2/38.png)
+![](../lesson2/38.png)
 
 现在明白为什么会这样了吧？学习率太高会让我们直接越过正确的值，比起点还要差。这就是学习率太高时发生的情况。
 
@@ -1197,7 +1197,7 @@ plt.scatter(x[:,0],y)
 plt.scatter(x[:,0],x@a);
 ```
 
-![](/lesson2/n3.png)
+![](../lesson2/n3.png)
 
 拟合成功了。不管你信不信，这就是梯度下降。我们只是用一个比`x@a`稍微复杂的函数作为开始，如果我们有一个可以表示图片是否是泰迪熊的函数，我们也可以用相同的方法来拟合它。
 
@@ -1240,7 +1240,7 @@ def animate(i):
 animation.FuncAnimation(fig, animate, np.arange(0, 100), interval=20)
 ```
 
-![](/lesson2/download.mp4)
+![](../lesson2/download.mp4)
 
 你可能会以为用动画可视化你的算法是令人惊奇的并且复杂的事情，事实上，你可以看到，只需要11行代码。所以我认为这非常酷。
 
@@ -1250,7 +1250,7 @@ animation.FuncAnimation(fig, animate, np.arange(0, 100), interval=20)
 
 这和随机梯度下降的唯一的区别是被叫做*mini-batches*的东西。你可以看到，我们这里做的是我们在每个迭代计算了整个数据集的损失度。如果你的数据集是ImageNet里的150万张图片，这会非常慢。要更新一次参数，你需要计算150万张图片的损失。你不会喜欢这样的情况。我们会一次随机选择大概64张图片，然后计算这64张图片的损失，然后更新我们的权重。换句话说，循环还是一样的，但是每次会对`x`和`y`选择一些随机索引来做一个mini-batch，这就是根本的区别。
 
-![](/lesson2/39.png)
+![](../lesson2/39.png)
 
 如果你每次都选择一些随机数据，这些随机数据被叫做你的mini-batch数据。这种方法被叫做随机梯度下降（SGD，Stochastic Gradient Descent）。
 
@@ -1281,7 +1281,7 @@ animation.FuncAnimation(fig, animate, np.arange(0, 100), interval=20)
 
 [没有不懂数学这回事](https://www.youtube.com/watch?v=q6DGVGJ1WP4)
 
-![](/lesson2/rachel.png)
+![](../lesson2/rachel.png)
 
 她会向你介绍一些学术研究。如果你认为你不懂数学，你需要看下这个，嗯，这会让你意识到你是错的，你之所以有这样的想法，是因为有人告诉你你不懂数学。没有学术研究表明有这样一回事。事实上，在罗马和中国的文化里，都没有不懂数学这样一个概念。在一些文化里不会听到，有人说我不懂数学，因为他们的文化都说你特征里没有这回事。 
 
@@ -1291,7 +1291,7 @@ animation.FuncAnimation(fig, animate, np.arange(0, 100), interval=20)
 
 最后我要说的概念是欠拟合和过拟合。我们刚刚把数据拟合到一条直线上。想象一下，我们的数据根本不是直线形状的。 如果我们尝试，把它拟合到一个常数+常数乘以x（直线），它永远不会拟合得很好。无论你改变这两个系数多少次，它都不会很贴近。
 
-![](/lesson2/40.png)
+![](../lesson2/40.png)
 
 另一方面，我们可能会用更复杂的公式来拟合，这种情况下，它是一个有很多弯曲的高维曲线。如果这样它对其他的气温和冰淇淋销量的数据，不会预测的很好。因为这些曲线太弯曲了。这被叫做过拟合。
 
